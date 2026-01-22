@@ -1,0 +1,13 @@
+@import "./colors.css";
+@import "./reset.css";
+
+body {
+  background: var(--bg-main);
+  font-family: Inter, system-ui, sans-serif;
+
+}
+
+
+.react-transform-component{
+  max-height: 5%;
+}

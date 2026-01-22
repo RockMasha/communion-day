@@ -1,0 +1,28 @@
+:root {
+  --bg-main: #f8f9fc;
+  --bg-card: #ffffff;
+  --bg-map: #6c63ff;
+
+  --point-main: #ad8200;
+  --point-shadow: #f7f2d9;
+
+  --text-main: #ffffff;
+  --text-main-second: #1e1f25;
+  --text-muted: #6b7280;
+
+  --accent: #6c63ff;
+  --accent-dark: #4139e8;
+  --accent-soft: #ecebff;
+
+  --danger: #ef4444;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 12px 32px rgba(0, 0, 0, 0.1);
+  --shadow-viol: rgba(108, 99, 255, 0.35);
+
+  --scale-factor: calc(0.2 + (1 - 0.2) * ((100vw - 320px) / (1920 - 320)));
+}
