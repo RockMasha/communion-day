@@ -10,6 +10,6 @@ export default defineConfig({
     },
   },
   preview: {
-    allowedHosts: ["https://communion-day.fivecoins.top"],
+    allowedHosts: ["communion-day.fivecoins.top"],
   },
 });
